@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="pixys"
-          fetch="https://github.com/PixysOS/"
+          fetch="https://github.com/PixysOS-Beta/"
           revision="eleven"
           review="gerrit.pixysos.com" />
 
