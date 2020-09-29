@@ -51,10 +51,12 @@
   <remove-project name="device/ti/beagle-x15-kernel" />
 
   <!-- external repos -->
+  <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/tinycompress" />
 
   <!-- Frameworks Repos -->
   <remove-project name="platform/frameworks/av" />
+  <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/opt/telephony" />
   <remove-project name="platform/frameworks/native" />
 
@@ -77,7 +79,11 @@
   <remove-project name="platform/packages/apps/DevCamera" />
   <remove-project name="platform/packages/apps/Protips" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
+  <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/modules/TestModule" />
+
+  <!-- Prebuilts Repos -->
+  <remove-project name="platform/prebuilts/abi-dumps/vndk" />
 
   <!-- System repos -->
   <remove-project name="platform/system/bt" />

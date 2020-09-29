@@ -37,10 +37,12 @@
   <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="vendor_nxp_opensource_packages_apps_Nfc" remote="pixys" />
 
   <!-- External Repos -->
+  <project path="external/selinux" name="external_selinux" remote="pixys" />
   <project path="external/tinycompress" name="external_tinycompress" remote="pixys" />
 
   <!-- Frameworks Repos -->
   <project path="frameworks/av" name="frameworks_av" remote="pixys" />
+  <project path="frameworks/base" name="frameworks_base" remote="pixys" />
   <project path="frameworks/native" name="frameworks_native" remote="pixys" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" groups="pdk" remote="pixys" />
 
@@ -52,6 +54,12 @@
   <project path="vendor/pixys" name="vendor_pixys" remote="pixys" />
   <project path="device/pixys/sepolicy" name="device_pixys_sepolicy" remote="pixys" />
   <project path="hardware/pixys/interfaces" name="hardware_pixys_interfaces" remote="pixys" />
+
+  <!-- Packages Repos -->
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="pixys" />
+
+  <!-- Prebuilts Repos -->
+  <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="pixys" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" groups="pdk" remote="pixys" />
