@@ -17,6 +17,7 @@
   <project path="vendor/qcom/opensource/libfjni" name="android_vendor_qcom_opensource_libfmjni" remote="lineage" revision="lineage-17.1" />
   <project path="vendor/qcom/opensource/power" name="android_vendor_qcom_opensource_power" groups="qcom,pdk-qcom" remote="lineage" revision="lineage-18.0" />
   <project path="vendor/qcom/opensource/thermal-engine" name="android_vendor_qcom_opensource_thermal-engine" remote="lineage" revision="lineage-17.1" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="android_vendor_qcom_opensource_cryptfs_hw" remote="lineage" revision="lineage-18.0" />
 
   <!-- External -->
   <project path="external/bash" name="android_external_bash" remote="lineage" />
