@@ -67,4 +67,9 @@
   <project path="system/core" name="system_core" remote="pixys" />
   <project path="system/sepolicy" name="system_sepolicy" remote="pixys" />
 
+  <!-- Sepolicy -->
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="pixys" />
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="pixys" /> 
+  <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="pixys" />
+
 </manifest>
