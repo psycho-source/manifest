@@ -35,6 +35,7 @@
   <!-- CodeAurora additions -->
   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="vendor_nxp_opensource_external_libnfc-nci" remote="pixys" />
   <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="vendor_nxp_opensource_packages_apps_Nfc" remote="pixys" />
+  <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" groups="qcom,pdk-qcom" remote="pixys" />
 
   <!-- External Repos -->
   <project path="external/selinux" name="external_selinux" remote="pixys" />
