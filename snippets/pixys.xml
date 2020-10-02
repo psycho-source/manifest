@@ -55,6 +55,7 @@
   <project path="vendor/pixys" name="vendor_pixys" remote="pixys" />
   <project path="device/pixys/sepolicy" name="device_pixys_sepolicy" remote="pixys" />
   <project path="hardware/pixys/interfaces" name="hardware_pixys_interfaces" remote="pixys" />
+  <project path="packages/apps/PixysSettings" name="packages_apps_PixysSettings" remote="pixys" />
 
   <!-- Packages Repos -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="pixys" />
